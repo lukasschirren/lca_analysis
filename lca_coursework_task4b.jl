@@ -53,3 +53,5 @@ value(q_a_m1)
 value(q_a_m2)
 value(q_b_m1)
 value(q_b_m2)
+
+latex_formulation(m)
