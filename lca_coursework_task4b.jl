@@ -12,7 +12,7 @@ using DataFrames, CSV
 using HiGHS
 
 # VARIABLES
-# From 3c --> To be calculated
+# From 3c
 E_burden_a = 16.93
 E_burden_b = 13.06
 
