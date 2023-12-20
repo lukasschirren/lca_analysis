@@ -19,8 +19,8 @@ E_burden_a = 16.93
 E_burden_b = 13.06
 
 e_t_m2 = 10.9 * 50 / 1000
-e_t_h_g_a = 11.4 * 5
-e_t_h_g_b = 20.3 * 3
+e_t_h_g_a = 11.4 * 5 / 1000
+e_t_h_g_b = 20.3 * 3 / 1000
 
 
 m = Model(HiGHS.Optimizer)
